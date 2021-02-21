@@ -2,7 +2,7 @@
 #
 .DS_Store
 
-# Xcode
+Xcode
 #
 build/
 *.pbxuser
